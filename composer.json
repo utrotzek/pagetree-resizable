@@ -1,5 +1,5 @@
 {
-	"name": "wazum/pagetree-resizable",
+	"name": "utrotzek/pagetree-resizable-fork",
 	"description": "Make the backend page tree horizontally resizable",
 	"require": {
 		"php": ">=7.0.0",
